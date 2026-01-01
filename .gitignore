@@ -43,12 +43,11 @@
 .vscode/*
 
 # General project-specific ignores
-doxygen/doxygen/*
 build/*
 *.dump
-*.szp
+*.mio0
 *.z64
 *.map
 .assets-local.txt
 **/.DS_Store
-
+*Zone.Identifier
